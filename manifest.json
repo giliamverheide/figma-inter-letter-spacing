@@ -2,5 +2,8 @@
   "name": "Inter Letter Spacing",
   "id": "795733302011238428",
   "api": "1.0.0",
-  "main": "code.js"
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ]
 }

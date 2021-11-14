@@ -1,0 +1,16 @@
+{
+  "name": "inter-letter-spacing",
+  "version": "1.1.0",
+  "description": "Figma plugin that sets the letter spacing of text layers using the Inter font, according to the Inter Dynamic Metrics.",
+  "main": "code.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Giliam Verheide",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "1.38",
+    "typescript": "^4.4.4"
+  }
+}
